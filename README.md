@@ -5,4 +5,4 @@ The World University Ranking features almost 1400 universities across 92 countri
 
 The data set is taken from: https://www.kaggle.com/joeshamen/world-university-rankings-2020
 
-Note: The scatter plot for the Research question Q2 is not visible in the Git.
+Note: As for the Data visualisation part I used complicated visualisation libraries. Therefore, some graphs are not visible through git.
